@@ -293,7 +293,7 @@ li, ul {
 .proces_btn {
     background: orange;
     padding: 20px 40px 20px 50px;
-    margin-left: 35px;
+    margin-left: -65px;;
     width: 100%;
     color: #fff;
     border-radius: 5px;
